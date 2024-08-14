@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/text/encoding"
 
-	"github.com/fulr/spidev"
+	"github.com/MauiKano/spidev"
 )
 
 // General interface of ASCII char set bit pattern
